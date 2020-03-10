@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnDash Paid Certificates\n"
+"POT-Creation-Date: 2020-03-10 14:20+0530\n"
+"PO-Revision-Date: 2020-03-10 14:20+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/class-ldpc-admin-course-certificate-settings.php:90
+msgid "Select the product"
+msgstr ""
+
+#: includes/admin/class-ldpc-admin-course-certificate-settings.php:96
+msgid "No private or published product found."
+msgstr ""
+
+#: includes/admin/class-ldpc-admin-course-certificate-settings.php:119
+msgid "This product needs to be purchased to access the certificate."
+msgstr ""
+
+#: includes/class-learndash-paid-certificates.php:60
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: includes/class-learndash-paid-certificates.php:67
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#: includes/class-learndash-paid-certificates.php:119
+#, php-format
+msgid ""
+"The <strong>%1$s</strong> requires PHP version %2$s or higher. Because you "
+"are using an unsupported version of PHP (%3$s), the <strong>%4$s</strong> "
+"plugin will not initialize. Please contact your hosting company to upgrade "
+"to PHP."
+msgstr ""
+
+#: includes/class-learndash-paid-certificates.php:138
+#, php-format
+msgid ""
+"The <strong>%1$s</strong> requires LearnDash LMS plugin to be activated !"
+msgstr ""
+
+#: includes/class-learndash-paid-certificates.php:155
+#, php-format
+msgid "The <strong>%1$s</strong> requires LearnDash v%2$s or greater!"
+msgstr ""
+
+#: includes/class-learndash-paid-certificates.php:173
+#, php-format
+msgid ""
+"The <strong>%1$s</strong> requires WooCommerce to be activated ! <a href="
+"\"%2$s\">Install / Activate WooCommerce</a>"
+msgstr ""
+
+#: includes/public/class-ldpc-public-certificate-purchase-link.php:56
+#: includes/public/class-ldpc-public-ld30-certificate.php:91
+msgid "Purchase Certificate"
+msgstr ""
